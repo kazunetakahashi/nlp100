@@ -1,0 +1,19 @@
+hightemp.txt
+jawiki-country.json
+neko.txt
+nlp.txt
+artist.json
+enwiki-20150112-400-r10-105752.txt
+
+# Ignore other unneeded files.
+doc/
+*.swp
+.project
+.DS_Store
+.idea
+.secret
+
+# Ignore Emacs' temp files.
+\#*\#
+.\#*
+*~
